@@ -1,9 +1,87 @@
-![line-neon](https://github.com/user-attachments/assets/478d8731-c4a9-41eb-9fdd-76e5a20afed8)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider GIF" />
+</p>
+<h2 align="center"> Hello World! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" /> , I'm Carlos Eduardo Olvera <br/></h2> 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=21&duration=2000&pause=1000&color=6E22F7&center=true&vCenter=true&width=435&lines=%3E+I'm+a+Software+Enginner+;%3E+Web+Developer+%3A);%3E+AI+%26+Computer+Vision+Researcher;%3E+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-<h2 align="center"> Hello World!👋 , I'm Carlos Eduardo Olvera <br/></h2> 
+# 🧑‍💻 **About Me**  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jaro&size=23&pause=1000&color=6C13F7&center=true&width=435&lines=Welcome+to+my+GitHub+Repository!;I'm+a+Software+Enginner;Studying+a+master's+degree+)](https://git.io/typing-svg)
+I am a software engineer passionate about the constant evolution of technology. My primary focus is on computer vision and neural networks, with a strong interest in applying artificial intelligence to solve real-world problems. In addition to my AI work, I am also passionate about web development and enjoy creating dynamic, responsive web applications. Currently, I am pursuing a Master's degree in Science and Technology at the Universidad Autónoma de Zacatecas.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jaro&size=23&pause=5000&color=0EF70C&center=true&width=435&lines=%24+Let's+Code!)](https://git.io/typing-svg)
+---
+## <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32">
+</picture> ** GitHub Stats**  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?1carloso1=anuraghazra&theme=dark&show_icons=true)
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=1carloso1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1carloso1&theme=radical" alt="GitHub Streak" width="49%" />
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carloso1&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
+</div>
+
+---
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills & Tools GIF" width="30" /> **Skills & Tools**
+
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+<p style="text-align: center;"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+---
+## <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture> **Current Focus** 
+
+- **Web Development**: Enhancing skills in **TypeScript** and **React**.
+- **AI Research**: Applying artificial intelligence in **civil engineering** for concrete analysis and structural integrity.
+- **Cybersecurity**: Solving challenges related to **cybersecurity** and exploring security-related topics.
+
+---
+## <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="32" height="32">
+</picture> **Contact Me** 
+
+- 📧 **Email**: [olverarx@gmail.com](mailto:olverarx@gmail.com)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider GIF" />
+</p>
