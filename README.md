@@ -8,15 +8,12 @@
   </a>
 </div>
 
-# 🧑‍💻 **About Me**  
+## 🧑‍💻 **About Me**  
 
 I am a software engineer passionate about the constant evolution of technology. My primary focus is on computer vision and neural networks, with a strong interest in applying artificial intelligence to solve real-world problems. In addition to my AI work, I am also passionate about web development and enjoy creating dynamic, responsive web applications. Currently, I am pursuing a Master's degree in Science and Technology at the Universidad Autónoma de Zacatecas.
 
----
-## <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32">
-</picture> ** GitHub Stats**  
+
+## **GitHub Stats** 
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
@@ -26,7 +23,6 @@ I am a software engineer passionate about the constant evolution of technology. 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carloso1&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
 </div>
 
----
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills & Tools GIF" width="30" /> **Skills & Tools**
 
 <p style="text-align: center;">
@@ -64,21 +60,13 @@ I am a software engineer passionate about the constant evolution of technology. 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
----
-## <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
-</picture> **Current Focus** 
+## **Current Focus**
 
 - **Web Development**: Enhancing skills in **TypeScript** and **React**.
 - **AI Research**: Applying artificial intelligence in **civil engineering** for concrete analysis and structural integrity.
 - **Cybersecurity**: Solving challenges related to **cybersecurity** and exploring security-related topics.
 
----
-## <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="32" height="32">
-</picture> **Contact Me** 
+## **Contact Me** 
 
 - 📧 **Email**: [olverarx@gmail.com](mailto:olverarx@gmail.com)
 
