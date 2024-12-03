@@ -15,35 +15,36 @@ I am a software engineer passionate about the constant evolution of technology. 
 
 ## **GitHub Stats** 
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=1carloso1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1carloso1&theme=radical" alt="GitHub Streak" width="49%" />
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1carloso1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1carloso1&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carloso1&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
-</div>
+</p>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills & Tools GIF" width="30" /> **Skills & Tools**
 
-<p style="text-align: center;">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
-<p style="text-align: center;">
+<p align="center">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
-<p style="text-align: center;">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-<p style="text-align: center;">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
-<p style="text-align: center;">
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
-<p style="text-align: center;"> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -51,7 +52,7 @@ I am a software engineer passionate about the constant evolution of technology. 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
-<p style="text-align: center;">
+<p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -59,6 +60,7 @@ I am a software engineer passionate about the constant evolution of technology. 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
+
 
 ## **Current Focus**
 
