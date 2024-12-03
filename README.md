@@ -12,17 +12,17 @@
 
 I am a software engineer passionate about the constant evolution of technology. My primary focus is on computer vision and neural networks, with a strong interest in applying artificial intelligence to solve real-world problems. In addition to my AI work, I am also passionate about web development and enjoy creating dynamic, responsive web applications. Currently, I am pursuing a Master's degree in Science and Technology at the Universidad Autónoma de Zacatecas.
 
+## 🌍 **Languages**
 
-## **GitHub Stats** 
+- **Español**: Native 
+- **English**: B2 (TOEFL Certification)
+- **German**: Basic
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1carloso1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1carloso1&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carloso1&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
-</p>
+## **Current Focus**
 
+- **Web Development**: Enhancing skills in **TypeScript** and **React**.
+- **AI Research**: Applying artificial intelligence in **civil engineering** for concrete analysis and structural integrity.
+- **Cybersecurity**: Solving challenges related to **cybersecurity** and exploring security-related topics.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills & Tools GIF" width="30" /> **Skills & Tools**
 
@@ -61,16 +61,32 @@ I am a software engineer passionate about the constant evolution of technology. 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
+## 📊 **GitHub Stats** 
 
-## **Current Focus**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1carloso1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1carloso1&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carloso1&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
+</p>
 
-- **Web Development**: Enhancing skills in **TypeScript** and **React**.
-- **AI Research**: Applying artificial intelligence in **civil engineering** for concrete analysis and structural integrity.
-- **Cybersecurity**: Solving challenges related to **cybersecurity** and exploring security-related topics.
+## 📫 **Contact Me**
 
-## **Contact Me** 
+<p align="center">
+  <a href="mailto:olverarx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu-linkedin-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 📧 **Email**: [olverarx@gmail.com](mailto:olverarx@gmail.com)
+<div align="center">
+  <p>📧 <strong>Email:</strong> olverarx@gmail.com</p>
+  <p><strong>✨ Let's code! </strong> I'm always open to new projects. ✨</p>
+</div>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider GIF" />
