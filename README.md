@@ -18,7 +18,7 @@ I am a software engineer passionate about the constant evolution of technology. 
 - **English**: B2 (TOEFL Certification)
 - **German**: Basic
 
-## **Current Focus**
+## 🔭 **Current Focus**
 
 - **Web Development**: Enhancing skills in **TypeScript** and **React**.
 - **AI Research**: Applying artificial intelligence in **civil engineering** for concrete analysis and structural integrity.
