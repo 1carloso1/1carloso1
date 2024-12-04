@@ -14,7 +14,7 @@ I am a software engineer passionate about the constant evolution of technology. 
 
 ## 🌍 **Languages**
 
-- **Español**: Native 
+- **Spanish**: Native 
 - **English**: B2 (TOEFL Certification)
 - **German**: Basic
 
