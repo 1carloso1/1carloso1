@@ -1,93 +1,80 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider GIF" />
-</p>
-<h2 align="center"> Hello World! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" /> , I'm Carlos Eduardo Olvera <br/></h2> 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=21&duration=2000&pause=1000&color=6E22F7&center=true&vCenter=true&width=435&lines=%3E+I'm+a+Software+Enginner+;%3E+Web+Developer+%3A);%3E+AI+%26+Computer+Vision+Researcher;%3E+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
+
+# Carlos Eduardo Olvera Mayorga
+
+**AI Engineer · Full-Stack Developer**
+
+*Building intelligent systems that work outside the lab*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carloseduardoolvera)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carloso.mayor@gmail.com)
+[![MDPI Paper](https://img.shields.io/badge/Published-MDPI_Applied_Sciences-1B6CA8?style=flat-square)](https://doi.org/10.3390/app152312383)
+
 </div>
 
-## 🧑‍💻 **About Me**  
+---
 
-I am a software engineer passionate about the constant evolution of technology. My primary focus is on computer vision and neural networks, with a strong interest in applying artificial intelligence to solve real-world problems. In addition to my AI work, I am also passionate about web development and enjoy creating dynamic, responsive web applications. Currently, I am pursuing a Master's degree in Science and Technology at the Universidad Autónoma de Zacatecas.
+## About
 
-## 🌍 **Languages**
+I'm a Software Engineering graduate (UAZ, Dec 2024) pursuing a Master's in Applied Engineering and Technology. My work sits at the intersection of applied ML research and production software — I don't just train models, I build the infrastructure that makes them useful.
 
-- **Spanish**: Native 
-- **English**: B2 (TOEFL Certification)
-- **German**: Basic
+My research on concrete compressive strength prediction was published in **MDPI Applied Sciences** (Nov 2025), where CatBoost achieved R² > 0.92 across 8 evaluated algorithms. That same model powers **FUVIA**, a web platform I designed and built end-to-end for civil engineering quality control.
 
-## 🔭 **Current Focus**
+---
 
-- **Web Development**: Enhancing skills in **TypeScript** and **React**.
-- **AI Research**: Applying artificial intelligence in **civil engineering** for concrete analysis and structural integrity.
-- **Cybersecurity**: Solving challenges related to **cybersecurity** and exploring security-related topics.
+## Selected Projects
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills & Tools GIF" width="30" /> **Skills & Tools**
+**FUVIA — AI-Powered Concrete Mix Design System**
+> Replaces weeks of preliminary lab tests with instant virtual predictions. Built with React, FastAPI, and a CatBoost inference engine. Includes ACI/ASTM input validation and an XAI layer for prediction explainability.
+> `Python` `FastAPI` `React` `CatBoost` `PostgreSQL` `Docker`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>
+**Computer Vision Pipeline — Undergraduate Thesis**
+> Automated material testing pipeline using YOLOv8 for real-time bounding box detection of concrete specimens during compression testing. Converts pixel-level coordinates to millimeter-scale physical deformation measurements.
+> `Python` `YOLOv8` `OpenCV` `Deep Learning`
 
-## 📊 **GitHub Stats** 
+**Psicosfera — Psychology Practice Platform**
+> Full-stack web platform for psychological consultation management. Built with Django, containerized with Docker, and shipped via CI/CD pipelines on GitHub Actions.
+> `Django` `PostgreSQL` `Docker` `GitHub Actions`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1carloso1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1carloso1&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carloso1&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
-</p>
+---
 
-## 📫 **Contact Me**
+## Tech Stack
 
-<p align="center">
-  <a href="mailto:olverarx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-olvera-851843337/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+| Domain | Technologies |
+|--------|-------------|
+| **AI & ML** | CatBoost, Scikit-Learn, YOLOv8, Pandas, NumPy |
+| **Backend** | Python, FastAPI, Django, PostgreSQL, REST APIs |
+| **Frontend** | React.js, TypeScript, JavaScript, Tailwind CSS |
+| **Infrastructure** | Docker, GitHub Actions, Render, Vercel |
+| **Research** | Explainable AI (XAI), Regression Modeling, Computer Vision |
+
+---
+
+## Research & Publications
+
+📄 **AI-Based Inference System for Concrete Compressive Strength**
+*MDPI Applied Sciences · Published November 2025*
+[doi.org/10.3390/app152312383](https://doi.org/10.3390/app152312383)
+
+📄 **FUVIA: Software Architecture and ML Pipelines for Explainable AI**
+*CONISOFT 2026 · Pending publication*
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <p>📧 <strong>Email:</strong> olverarx@gmail.com</p>
-  <p><strong>✨ Let's code! </strong> I'm always open to new projects. ✨</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1carloso1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1carloso1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
 </div>
 
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider GIF" />
-</p>
+<div align="center">
+
+*Open to remote AI Engineer and Full-Stack roles · Available for research collaborations*
+
+</div>
