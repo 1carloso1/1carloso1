@@ -18,10 +18,8 @@
 
 ### 🔭 Currently Building
 
-```
-FUVIA v2  ─  XAI dashboard for concrete mix-design predictions
-Master's Thesis  ─  Applied ML in structural engineering (UAZ, 2026)
-```
+![FUVIA v2](https://img.shields.io/badge/FUVIA_v2-XAI_Dashboard_for_Mix--Design_Predictions-1a0a2e?style=flat-square&logo=flask&logoColor=a78bfa)
+![Master's Thesis](https://img.shields.io/badge/Master's_Thesis-Applied_ML_in_Structural_Engineering_(UAZ_2026)-1a0a2e?style=flat-square&logo=academia&logoColor=a78bfa)
 
 </div>
 
